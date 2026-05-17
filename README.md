@@ -240,8 +240,8 @@ aws configure
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/CodebyHarris/terraform-aws-vpc.git
-cd terraform-aws-vpc
+git clone https://github.com/Muhammadgi/aws-vpc-terraform
+cd aws-vpc-terraform
 ```
 
 ---
